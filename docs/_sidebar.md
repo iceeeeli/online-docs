@@ -3,5 +3,8 @@
 - Guide
   - [快速开始](/guide/getting-started.md)
   - [Markdown 语法演示](/guide/markdown-demo.md)
+- Hpb-docs
+  - [HPB 文献汇总](/hpb-docs/README.md)
+  - [筛查与检测](/hpb-docs/screening.md)
 - Notes
   - [示例笔记](/notes/example-note.md)
