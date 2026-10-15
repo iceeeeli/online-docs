@@ -1,16 +1,13 @@
 # 文档库
 
-欢迎来到文档库！这是一个使用 [Docsify](https://docsify.js.org/) 搭建的在线 Markdown 文档浏览站，**零构建**——直接把 Markdown 写好就能在浏览器里优雅地阅读。
+本站当前收录 **[HPB 文献汇总](/hpb-docs/)**——基于权威医学指南整理的专题资料。
 
-所有文档都放在 `docs/` 目录下。你可以：
+## 快速进入
 
-- 通过**左侧边栏**在各篇文档之间导航；
-- 通过**右上角搜索框**快速检索全站内容。
+- 😀 [大白话通俗版（普通人看得懂）](/hpb-docs/patient-guide.md)
+- 📑 [HPB 文献汇总 · 总览](/hpb-docs/)
+- ① [筛查与检测](/hpb-docs/screening.md)
+- ② [感染与致病机制](/hpb-docs/pathogenesis.md)
+- ③ [治疗与相关疾病](/hpb-docs/treatment.md)
 
-## 如何新增文档
-
-1. 把你的 `.md` 文件丢进 `docs/` 目录；
-2. 运行 `node scripts/gen-sidebar.mjs` 生成（更新）左侧导航；
-3. 提交并推送即可，GitHub Pages 会自动发布。
-
-祝阅读愉快！
+> 左侧边栏可导航，右上角可搜索全站内容。
