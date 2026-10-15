@@ -5,7 +5,9 @@
   - [Markdown 语法演示](/guide/markdown-demo.md)
 - Hpb-docs
   - [HPB 文献汇总](/hpb-docs/README.md)
+  - [免责声明](/hpb-docs/disclaimer.md)
   - [感染与致病机制](/hpb-docs/pathogenesis.md)
+  - [参考来源汇总](/hpb-docs/references.md)
   - [筛查与检测](/hpb-docs/screening.md)
   - [治疗与相关疾病](/hpb-docs/treatment.md)
 - Notes
