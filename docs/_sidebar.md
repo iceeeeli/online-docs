@@ -4,6 +4,7 @@
   - [📑 总览](/hpb-docs/README.md)
   - [😀 大白话通俗版](/hpb-docs/patient-guide.md)
   - [① 筛查与检测](/hpb-docs/screening.md)
+  - [①＋ 检测技术与分型原理](/hpb-docs/testing-methods.md)
   - [② 感染与致病机制](/hpb-docs/pathogenesis.md)
   - [③ 治疗与相关疾病](/hpb-docs/treatment.md)
   - [📚 参考来源汇总](/hpb-docs/references.md)
