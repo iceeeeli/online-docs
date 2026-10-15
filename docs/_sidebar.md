@@ -5,6 +5,7 @@
   - [Markdown 语法演示](/guide/markdown-demo.md)
 - Hpb-docs
   - [HPB 文献汇总](/hpb-docs/README.md)
+  - [感染与致病机制](/hpb-docs/pathogenesis.md)
   - [筛查与检测](/hpb-docs/screening.md)
 - Notes
   - [示例笔记](/notes/example-note.md)
