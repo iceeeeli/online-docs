@@ -5,6 +5,7 @@
   - [Markdown 语法演示](/guide/markdown-demo.md)
 - HPB 文献汇总
   - [📑 总览](/hpb-docs/README.md)
+  - [😀 大白话通俗版](/hpb-docs/patient-guide.md)
   - [① 筛查与检测](/hpb-docs/screening.md)
   - [② 感染与致病机制](/hpb-docs/pathogenesis.md)
   - [③ 治疗与相关疾病](/hpb-docs/treatment.md)
