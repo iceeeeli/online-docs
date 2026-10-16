@@ -17,6 +17,7 @@
 | [① 筛查与检测](/hpb-docs/screening.md) | 核酸检测、细胞学、联合筛查、自采样、筛查年龄与间隔、异常结果管理 | ✅ 已完成 |
 | [①＋ 检测技术与分型原理](/hpb-docs/testing-methods.md) | 检测方法学（HC2/PCR/mRNA）、L1 vs E6/E7 靶点、如何分型、Meijer 验证标准 | ✅ 已完成 |
 | [② 感染与致病机制](/hpb-docs/pathogenesis.md) | 病毒学、E6/E7 机制、型别划分、自然史、免疫应答 | ✅ 已完成 |
+| [🔎 HPV68 专题](/hpb-docs/hpv68.md) | HPV68 单型别详解：α-7 家族、IARC 2A 分级、风险、a/b 亚型检测陷阱 | ✅ 已完成 |
 | [③ 治疗与相关疾病](/hpb-docs/treatment.md) | 癌前病变管理、宫颈癌分期治疗、生殖器疣、其他相关癌症 | ✅ 已完成 |
 
 ## 其他页面

@@ -6,6 +6,7 @@
   - [① 筛查与检测](/hpb-docs/screening.md)
   - [①＋ 检测技术与分型原理](/hpb-docs/testing-methods.md)
   - [② 感染与致病机制](/hpb-docs/pathogenesis.md)
+  - [🔎 HPV68 专题](/hpb-docs/hpv68.md)
   - [③ 治疗与相关疾病](/hpb-docs/treatment.md)
   - [📚 参考来源汇总](/hpb-docs/references.md)
   - [⚠️ 免责声明](/hpb-docs/disclaimer.md)
