@@ -1,12 +1,15 @@
 <!-- 此文件由 scripts/gen-sidebar.mjs 自动生成，可手动编辑，但重跑脚本会覆盖 -->
 - [🏠 首页](/)
-- HPB 文献汇总
-  - [📑 总览](/hpb-docs/README.md)
-  - [😀 大白话通俗版](/hpb-docs/patient-guide.md)
-  - [① 筛查与检测](/hpb-docs/screening.md)
-  - [①＋ 检测技术与分型原理](/hpb-docs/testing-methods.md)
-  - [② 感染与致病机制](/hpb-docs/pathogenesis.md)
-  - [🔎 HPV68 专题](/hpb-docs/hpv68.md)
-  - [③ 治疗与相关疾病](/hpb-docs/treatment.md)
-  - [📚 参考来源汇总](/hpb-docs/references.md)
-  - [⚠️ 免责声明](/hpb-docs/disclaimer.md)
+- Hpb-docs
+  - [HPB 文献汇总](/hpb-docs/README.md)
+  - [免责声明](/hpb-docs/disclaimer.md)
+  - [HPV68 专题](/hpb-docs/hpv68.md)
+  - [感染与致病机制](/hpb-docs/pathogenesis.md)
+  - [大白话版：普通人看得懂的 HPV 总结](/hpb-docs/patient-guide.md)
+  - [参考来源汇总](/hpb-docs/references.md)
+  - [筛查与检测](/hpb-docs/screening.md)
+  - [检测技术与分型原理](/hpb-docs/testing-methods.md)
+  - [治疗与相关疾病](/hpb-docs/treatment.md)
+- Work-review
+  - [项目经验（简历版）](/work-review/resume-projects.md)
+  - [工作经验梳理（2025-01-18 ~ 2026-10）](/work-review/work-summary.md)
