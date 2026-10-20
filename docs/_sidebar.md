@@ -11,5 +11,5 @@
   - [检测技术与分型原理](/hpb-docs/testing-methods.md)
   - [治疗与相关疾病](/hpb-docs/treatment.md)
 - Work-review
-  - [项目经验（简历版）](/work-review/resume-projects.md)
-  - [工作经验梳理（2025-01-18 ~ 2026-10）](/work-review/work-summary.md)
+  - [项目经验（简历版 · 脱敏）](/work-review/resume-projects.md)
+  - [工作经验梳理（2025-01-18 ~ 2026-10 · 脱敏）](/work-review/work-summary.md)
